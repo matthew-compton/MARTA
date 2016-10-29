@@ -1,3 +1,10 @@
 <resources>
+
     <string name="app_name">My MARTA Adventure</string>
+    <string name="intro_message">Take me on an adventure!</string>
+    <string name="selection_title_short">Short Stop</string>
+    <string name="selection_title_medium">Medium Trip</string>
+    <string name="selection_title_long">Long Hike</string>
+    <string name="victory_message">Yay! You did it! Congratulations!</string>
+
 </resources>
